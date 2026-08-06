@@ -4,7 +4,7 @@
 
 <!-- Social / Contact Badges -->
 <div align="center">
-  <a href="https://github.com/dloorah">
+  <a href="https://github.com/Himmelsz">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
   <a href="mailto:bfnisana@gmail.com">
