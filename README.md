@@ -7,10 +7,10 @@
   <a href="https://github.com/dloorah">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:bfnisana@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF1493&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/harold-cereno/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFB6C1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
