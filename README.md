@@ -33,7 +33,7 @@
 
 <!-- Stats & Streak -->
 <div align="center">
-  <a href="https://github.com/dloorah">
+  <a href="https://github.com/Himmelsz">
     <img src="https://github-readme-stats.vercel.app/api?username=dloorah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" height="160" alt="GitHub Stats" />
   </a>
   <img src="https://via.placeholder.com/20x1/FFFFFF/FFFFFF" alt="" /> 
@@ -45,7 +45,7 @@
 
 <!-- Trophies -->
 <div align="center">
-  <a href="https://github.com/dloorah">
+  <a href="https://github.com/Himmelsz">
     <img src="https://github-profile-trophy.vercel.app/?username=dloorah&theme=darkhub" width="820" alt="GitHub Trophies" />
   </a>
 </div>
